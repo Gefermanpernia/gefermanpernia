@@ -15,6 +15,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gefermanpernia&label=Profile%20views&color=00d9ff&style=plastic" alt="gefermanpernia" /> </p>
 
 - 📫 How to reach me **geferman.pro@gmail.com**
+- https://ko-fi.com/gefermanpernia ☕
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
