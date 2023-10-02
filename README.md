@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Geferman Pernia
 </h1>
 
-<h3 align="center">A passionate software developer from Venezuelan</h3>
+<h3 align="center">A passionate software developer</h3>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=gefermanpernia" alt="gefermanpernia" />
